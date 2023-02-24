@@ -5,6 +5,7 @@ print("----------MAYOR 2 ENTEROS----------------")
 print("-----------------------------------------")
 
 
+
 # input
 x = int (input("digite el valor de x: "))
 y = int (input("digite el valor de y: "))
